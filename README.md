@@ -14,6 +14,7 @@ It satisfies the following requirements:
 # Registration Page
 ![Screenshot 2024-06-10 225839](https://github.com/chhetri-aryan/MiniTwit/assets/72271864/330a6aa4-a217-4db0-b823-09c78e928ae1)
 
+
 # Login Page
 ![Screenshot 2024-06-10 230253](https://github.com/chhetri-aryan/MiniTwit/assets/72271864/6c72b803-e366-4ac9-ad35-a6980c05489a)
 
