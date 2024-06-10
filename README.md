@@ -64,7 +64,7 @@ It satisfies the following requirements:
 ![image](https://github.com/chhetri-aryan/MiniTwit/assets/72271864/ced52496-5d03-4943-958f-2f5cbe987601)
 
 
-# Thank YOU!
+# THANK YOU!
 
 
 
