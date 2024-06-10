@@ -59,7 +59,12 @@ It satisfies the following requirements:
 # Signing Out
 ![image](https://github.com/chhetri-aryan/MiniTwit/assets/72271864/3c53521b-a0be-44fb-adc1-83a6a67eb8fe)
 
+# Another User's POV
+![image](https://github.com/chhetri-aryan/MiniTwit/assets/72271864/54dc7ac9-1e7f-44b0-8572-c511eca5f999)
+![image](https://github.com/chhetri-aryan/MiniTwit/assets/72271864/ced52496-5d03-4943-958f-2f5cbe987601)
 
+
+# Thank YOU!
 
 
 
