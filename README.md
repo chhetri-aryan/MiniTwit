@@ -1,4 +1,4 @@
-![image](https://github.com/chhetri-aryan/MiniTwit/assets/72271864/084bd837-e4be-4105-8d4e-8f16340a656d)![image](https://github.com/chhetri-aryan/MiniTwit/assets/72271864/ff8e7d72-deb2-4955-8e8e-e3f00464c3a6)# MiniTwit
+# MiniTwit
 This is a mini-twitter clone using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
 It satisfies the following requirements: 
